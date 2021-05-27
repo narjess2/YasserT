@@ -325,6 +325,9 @@ textarea {
     left: -289px;
     /*250+45-6*/
   }
+  .contact {
+    margin: 30px;
+    width: unset;
 }
 .contact {
   margin: 30px;
