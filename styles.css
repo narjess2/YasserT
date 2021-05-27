@@ -325,13 +325,11 @@ textarea {
     left: -289px;
     /*250+45-6*/
   }
-  .contact {
-    margin: 30px;
-    width: unset;
-}
+
 .contact {
   margin: 30px;
   width: unset;
+}
 }
 @media screen and (max-width: 600px) {
   h1 {
@@ -368,6 +366,4 @@ textarea {
   .form-group:first-of-type {
     margin-right: 0;
   }
-
-
-
+}
